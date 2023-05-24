@@ -1,0 +1,3 @@
+MONGODB_URI ="mongodb+srv://arielecom:2ma4ko6ye8D@cluster0.t7pndym.mongodb.net/?retryWrites=true&w=majority"
+GOOGLE_ID ="209025545740-3ua4hl7uvbbvii0gihfojg5dmbtal230.apps.googleusercontent.com"
+GOOGLE_SECRET = "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"
